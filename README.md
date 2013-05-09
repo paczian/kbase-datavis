@@ -14,7 +14,7 @@ The library includes a distribution mechanism that wraps all the renderers and e
 * [Git](http://git-scm.com/ "Git")
 
 ##Installation
-Various external modules are managed either through [NPM](https://npmjs.org/ "npm") or as Git modules. They can be downloaded and installed by running:
+Various external modules are managed either through [NPM](https://npmjs.org/ "npm") or as Git modules. They can be downloaded and installed by running: 
 
     make init
 
